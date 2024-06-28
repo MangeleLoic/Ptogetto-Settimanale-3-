@@ -1,0 +1,9 @@
+.tabClass {
+    color: green;
+
+
+}
+
+.tavClass:nth-child(even) {
+    background-color: aquamarine;
+}
